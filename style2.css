@@ -17,21 +17,21 @@ body {
 h1 {
     margin: auto;
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin-top: 90px;
+    font-family: 'Fleur De Leah', cursive;    margin-top: 90px;
     font-size: 90px;
+
     
 
 }
 
 h2 {
     font-size: 90px;
-    justify-content:center;
+    justify-content: center;
     margin-top: 180px;
     font-style: black;
-    font-family: 'Lobster', cursive;
-    font-family: 'Lobster Two', cursive;
     font-family: 'Playfair Display', serif;
+    text-align: center;
+    
 
 
 }
@@ -101,7 +101,7 @@ h4 {
     width: 10px;
     height: 400px;
     margin: 110px;
-    border-radius: 1000px;
+    border-radius: 100%;
     flex: 1;
     
 }

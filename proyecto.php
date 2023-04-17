@@ -69,18 +69,18 @@
 <h2>Tecnai es una empresa orientada a la ayuda comunitaria, que busca brindar ayuda tanto a grupos sociales especificos, como a la ciudad en general, brindando oportunidades</h2>
 
 <div class="flex-container">
-<div class="imagen1"><img src="imagenes/AVGB.gif" alt=""></div>
+<div class="imagen1"><img src="AVGB.gif" alt=""></div>
 </div>
 
 <div><h1>mision</h1></div>
 
-<h1>Fomentar la ayuda cooperativa e incluir a las personas para que tengan una calidad de vida digna.</h1>
+<h2>Fomentar la ayuda cooperativa e incluir a las personas para que tengan una calidad de vida digna.</h2>
 
 <div><h1>vision</h1></div>
 
-<h1>Ser reconocidos a nivel nacional por nuestras grandes habilidades de innovación y
+<h2>Ser reconocidos a nivel nacional por nuestras grandes habilidades de innovación y
     creatividad de software que tengan un gran impacto para la mejora continua de la
-    comunidad.</h1>
+    comunidad.</h2>
 
 <div><h1>equipo</h1></div>
 
@@ -96,5 +96,10 @@
     <h4>Edward Lee Breachwater</h4>
     <h4>Lady reyes </h4>
     <h4>Alejandro Ozuna Vera</h4>
+    <br><br><br><br><br><br>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fleur+De+Leah&display=swap" rel="stylesheet">
+<br><br><br><br><br><br>
 </body>
 </html>

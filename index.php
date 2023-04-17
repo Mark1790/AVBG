@@ -10,6 +10,7 @@ include "seguridad.php";
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Menu de Navegación</title>
     <head>
+        
     <link href="https://fonts.googleapis.com/css2?family=Overpass+Mono&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -68,7 +69,17 @@ include "seguridad.php";
     <hr>
 </head>
 <body>
-    
+<div class="carrousel">
+        <div class="grande">
+            <img src="assets/02.jpg" alt="Imagen 1" class="img">
+            <img src="assets/03.jpg" alt="Imagen 2" class="img">
+        </div>
+
+        <ul class="puntos">
+            <li class="punto activo"></li>
+            <li class="punto"></li>
+        </ul>
+    </div>
 
 </body>
 

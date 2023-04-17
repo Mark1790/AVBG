@@ -71,61 +71,63 @@
         <div class="imagen">
             <img src="recorte1.PNG" alt=""></A>
            <div class="overlay">
-            <A HREF="Registro.php"><h2>incribete aqui</h2></A>
+            <A HREF="Registro.php"><h2>Ayundatia general</h2></A>
                 
             </div>
         </div>
         <div class="imagen">
             <img src="recorte2.PNG" alt="">
             <div class="overlay">
-                <h2>incribete aqui</h2>
+                <h2>Pintura</h2>
             </div>
         </div>
         <div class="imagen">
             <img src="recorte3.PNG" alt="">
             <div class="overlay">
-                <h2>incribete aqui</h2>
+                <h2>Limpieza ciudadana</h2>
             </div>
         </div>
         <div class="imagen">
             <img src="recorte4.PNG" alt="">
             <div class="overlay">
-                <h2>incribete aqui</h2>
+                <h2>Recoleccion de basura</h2>
             </div>
         </div>
         <div class="imagen">
             <img src="recorte5.PNG" alt="">
             <div class="overlay">
-                <h2>incribete aqui</h2>
+                <h2>Limpieza en playas</h2>
             </div>
         </div>
         <div class="imagen">
             <img src="recorte6.PNG" alt="">
             <div class="overlay">
-                <h2>incribete aqui</h2>
+                <h2>Reforestacion</h2>
             </div>
         </div>
         <div class="imagen">
             <img src="recorte7.PNG" alt="">
             <div class="overlay">
-                <h2>incribete aqui</h2>
+                <h2>Plomeria ciudadana</h2>
             </div>
         </div>
         <div class="imagen">
             <img src="recorte9.jpg" alt="">
             <div class="overlay">
-                <h2>incribete aqui</h2>
+                <h2>guarderia</h2>
             </div>
         </div>
         <div class="imagen">
-            <img src="img/1 (10).jpg" alt="">
+            <img src="recorte10.jpg" alt="">
             <div class="overlay">
-                <h2>incribete aqui</h2>
+                <h2>Electricista ciudadano</h2>
             </div>
         </div>
        
     </div>
 </div>
+<br>
+<br><br><br><br><br><br>
 </body>
 
 </html>
