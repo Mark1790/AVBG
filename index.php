@@ -1,3 +1,8 @@
+<?php
+$conexion = mysqli_connect("localhost", "root", "", "AVGB") or die ("Problemas con la conexion");
+
+include "seguridad.php";
+ ?>
 <!DOCTYPE html>
 <html lang="en">
     <meta charset="UTF-8">
@@ -44,7 +49,7 @@
 
         <div class="right-side">
             <div class="account">
-                <img src="zaky.jpg" alt="HK">
+            <img src="perfil/<?php echo $_SESSION['imagen']; ?>">
                 
                 <div class="dropdown-caret"></div>
             </div>
