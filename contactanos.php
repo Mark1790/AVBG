@@ -1,3 +1,6 @@
+<?php
+include "seguridad.php";
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -43,7 +46,7 @@
 
             <div class="right-side">
                 <div class="account">
-                    <img src="zaky.jpg" alt="HK">
+                <img src="perfil/<?php echo $_SESSION['imagen']; ?>">
                     
                     <div class="dropdown-caret"></div>
                 </div>
@@ -54,7 +57,7 @@
                     <ul>
                         <a href="#"><li>perfil</li></a>
                         
-                        <a href="#"><li>cerrar sesion</li></a>
+                        <a href="salir.php"><li>cerrar sesion</li></a>
                     </ul>
                 </div>
             </div>
@@ -62,6 +65,7 @@
         <hr>
 </head>
 <body>
+
 
 <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">

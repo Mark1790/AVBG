@@ -1,4 +1,6 @@
-
+<?php
+include "seguridad.php";
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -29,6 +31,7 @@
                     <div class="line-2"></div>
                     <div class="line-3"></div>
                 </div>
+                holi
 
                 <div class="logo">
                     <a href="index.php"><img src="logo.png" alt="TSEC CodeCell"></a>
@@ -45,7 +48,7 @@
 
             <div class="right-side">
                 <div class="account">
-                    <img src="zaky.jpg" alt="HK">
+                <img src="perfil/<?php echo $_SESSION['imagen']; ?>">
                     
                     <div class="dropdown-caret"></div>
                 </div>

@@ -1,3 +1,6 @@
+<?php
+include "seguridad.php";
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -44,7 +47,7 @@
 
             <div class="right-side">
                 <div class="account">
-                    <img src="zaky.jpg" alt="HK">
+                <img src="perfil/<?php echo $_SESSION['imagen']; ?>">
                     
                     <div class="dropdown-caret"></div>
                 </div>
@@ -55,7 +58,7 @@
                     <ul>
                         <a href="#"><li>perfil</li></a>
                         
-                        <a href="#"><li>cerrar sesion</li></a>
+                        <a href="salir.php"><li>cerrar sesion</li></a>
                     </ul>
                 </div>
             </div>
@@ -94,7 +97,7 @@
     <div id="nombres" class="flex-container">
     <h4>Zaky Andrade Valdez</h4>    
     <h4>Edward Lee Breachwater</h4>
-    <h4>Lady reyes </h4>
+    <h4>Leydi Arilen Garcia </h4>
     <h4>Alejandro Ozuna Vera</h4>
     <br><br><br><br><br><br>
     <link rel="preconnect" href="https://fonts.googleapis.com">
