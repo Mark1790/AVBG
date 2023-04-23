@@ -55,7 +55,7 @@ include "seguridad.php";
                     <div class="user-name">Bienvenido</div>
 
                     <ul>
-                        <a href="#"><li>perfil</li></a>
+                        <a href="perfil.php"><li>perfil</li></a>
                         
                         <a href="salir.php"><li>cerrar sesion</li></a>
                     </ul>

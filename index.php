@@ -59,7 +59,7 @@ include "seguridad.php";
                 <div class="user-name">Bienvenido</div>
 
                 <ul>
-                    <a href="#"><li>perfil</li></a>
+                    <a href="perfil.php"><li>perfil</li></a>
                     
                     <a href="salir.php"><li>cerrar sesion</li></a>
                 </ul>
@@ -69,17 +69,6 @@ include "seguridad.php";
     <hr>
 </head>
 <body>
-<div class="carrousel">
-        <div class="grande">
-            <img src="assets/02.jpg" alt="Imagen 1" class="img">
-            <img src="assets/03.jpg" alt="Imagen 2" class="img">
-        </div>
-
-        <ul class="puntos">
-            <li class="punto activo"></li>
-            <li class="punto"></li>
-        </ul>
-    </div>
 
 </body>
 
