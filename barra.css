@@ -25,3 +25,6 @@ overflow: hidden;
         transform: translateX(var(--fill-size));
     }
 }
+td {
+    color: black;
+  }

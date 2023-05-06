@@ -57,7 +57,7 @@ include "seguridad.php";
    <td><br><center><img src="imagenes/equis.png" width="110" height="100"><br></td>
    </tr>
    <tr>
-   <td><center><button onclick=location.href='#'>Eliminacion de Administradores</button></center></td>
+   <td><center><button onclick=location.href='Eliminacion.php'>Eliminacion de Administradores</button></center></td>
    <td><center><button onclick=location.href='salir.php'>Cerrar sesion</button></center></td>
    <td><center><button onclick=location.href='#'>Eliminacion de trabajo</button></center></td>
    </tr>
