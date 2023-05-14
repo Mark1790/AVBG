@@ -59,7 +59,7 @@ include "seguridad.php";
    <tr>
    <td><center><button onclick=location.href='Eliminacion.php'>Eliminacion de Administradores</button></center></td>
    <td><center><button onclick=location.href='salir.php'>Cerrar sesion</button></center></td>
-   <td><center><button onclick=location.href='#'>Eliminacion de trabajo</button></center></td>
+   <td><center><button onclick=location.href='ElimTrabajo.php'>Eliminacion de trabajo</button></center></td>
    </tr>
    <br>
 	</br>
