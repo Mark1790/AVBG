@@ -49,7 +49,7 @@ include "seguridad.php";
    </tr>
    <td><center><button onclick=location.href='RegistroAdmin.php'>Registro de Administradores</button></center></td>
    <td><center><button onclick=location.href='AdminConsulta.php'>Consulta de Administradores</button></center></td>
-   <td><center><button onclick=location.href='#'>Modificacion de trabajos</button></center></td>
+   <td><center><button onclick=location.href='AdminConsultaTrabajo.php'>Consulta de trabajos</button></center></td>
   </tr>
   <tr>
    <td><br><center><img src="imagenes/usuarios.png" width="110" height="100"><br></td>
