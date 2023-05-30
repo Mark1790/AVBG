@@ -113,7 +113,6 @@ header{
     position: absolute;
     top: 50%;
     left: 5px;
-    transform: translateY(-50%);
     font-size: 1em;
     color: #000000;
     font-weight: 500;
@@ -196,6 +195,3 @@ header{
     font-weight: 600;
 }
 
-.login-registro p a:hover{
-    text-decoration: underline;
-}
